@@ -1,2 +1,9 @@
 # Depilacao-Brasilia
- Este repositório contém o código fonte de um site dedicado aos serviços de depilação em Brasília. Utilizando HTML, CSS e JavaScript, o site é estruturado para oferecer informações detalhadas sobre os procedimentos de depilação a laser e com cera quente. O HTML é utilizado para organizar o conteúdo de maneira semântica, enquanto o CSS estiliza o layout, garantindo uma apresentação visual atraente e responsiva em diferentes dispositivos.  JavaScript é integrado para fornecer funcionalidades interativas, como exibição de mensagens operacionais e interações com botões, aumentando a usabilidade e a interatividade do site. Além disso, o repositório inclui o uso de Google Fonts para importação de fontes personalizadas, contribuindo para a estética visual do site.  O objetivo principal é fornecer aos visitantes uma plataforma intuitiva e acessível para explorar e agendar serviços de depilação, promovendo uma experiência completa e informativa sobre os benefícios e procedimentos disponíveis.
+* Tecnologias: HTML, CSS, JavaScript, Google Fonts.
+* Estrutura: HTML semântico.
+* Estilo: CSS responsivo e visualmente atraente.
+* Interatividade: JavaScript.
+* Fontes: Google Fonts personalizadas.
+* Conteúdo: Foco em informações detalhadas sobre depilação a laser e cera quente..
+* Objetivo: Plataforma intuitiva e acessível para agendar serviços.
+
